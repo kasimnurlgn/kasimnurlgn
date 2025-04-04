@@ -2,7 +2,7 @@
 - 👀 I’m interested in building innovative, scalable, and user-centric web applications.
 - 🌱 I’m currently learning new technologies to enhance both front-end and back-end development.
 - 💞️ I’m looking to collaborate on exciting full-stack projects and open-source contributions.
-- 📫 How to reach me: kasimnurlgn9@gmail.com or via LinkedIn 
+- 📫 How to reach me: kasimnurlgn9@gmail.com or via https://www.linkedin.com/in/kasimnurlgn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coding at night with a cup of coffee, and I’m a co-founder of Abakas, where I work as a Full Stack Engineer!
 
