@@ -11,9 +11,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kasimnurlgn&theme=radical)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kasimnurlgn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kasimnurlgn&theme=dark&hide_border=false)<br/>
+
+## 🧮 GitHub Stats
+![Kasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasimnurlgn&show_icons=true&theme=radical)<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=kasimnurlgn&theme=radical)
+<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimnurlgn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
